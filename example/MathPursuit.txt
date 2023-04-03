@@ -1,0 +1,537 @@
+Rose
+Comment se nomment les ouvrages mathématiques de l'antiquité écrit par Euclide ?
+(Les éléments)
+Rose
+Qui est considéré comme l'inventeur des logarithmes ?
+(John Naper)
+Rose
+Comment appelle-t-on les trois étapes de la démonstration par récurrence ?
+(Initialisation, Hérédité, Conclusion)
+Rose
+Comment appelle-t-on la branche des mathématiques qui s'intéresse à une approche algébrique de la logique ?
+(Algèbre de Boole)
+Rose
+Quel nom donne-t-on au théorème d'encadrement des limites qui permet d'obtenir une limite finie ?
+(Th des Gendarmes)
+Rose
+Quelle est la nationalité du mathématicien Leonhard Euler ?
+(Suisse)
+Rose
+Quels mathématiciens s'opposent dans la controverse sur l'invention du calcul différentiel ?
+(Newton-Leibniz)
+Rose
+Quel mathématicien peut être considéré comme le père de la loi Binomiale ?
+(Bernouilli)
+Rose
+Quel est le nom du théorème qui permet d'affirmer qu'une équation du type « f(x)=k » admet des solutions ?
+(TVI)
+Rose
+Deux droites parallèles sont inclus dans deux plans respectivement sécants alors ces droites sont parallèles à la droite d'intersection des deux plans. Comment s'appelle ce théorème ?
+(Toit)
+Rose
+De quel mathématicien provient le nom « algorithme » ?
+(Al Kwarizmi)
+Rose
+Quel mathématicien de l'antiquité a proposé un algorithme pour le calcul de pi ?
+(Archimède)
+Rose
+Quel est le premier algorithme de l'histoire à porté un nom ?
+(Euclide)
+Rose
+Comment s'appelle le système de calcul numérique des babyloniens ?
+(Séxagésimale)
+Rose
+Quel est le premier mathématicien a définir le zéro et ses propriétés ?
+(Brahmagupta env 500)
+Bleue
+Compléter le triplet pythagoricien (5, 12, ? )	
+(13)
+Bleue
+Quelles sont les coordonnées du vecteur normal au plan d'équation cartésienne 3x-2y+5z-1=0 ?
+(3 ;-2;5)
+Bleue
+De quel théorème, le théorème de la droite des milieux est-il un cas particulier ?
+(Thalès)
+Bleue
+Comment appelle-t-on le point d'intersection des bissectrices des angles d'un triangle ?
+(Centre du cercle inscrit)
+Bleue
+Où se trouve le centre du cercle circonscrit d'un triangle ?
+(Point de concours des médiatrices)
+Bleue
+Soient les vecteurs u et v de coordonnées respectives (2 ;-3) et (21 ; 14), u et v sont-ils  colinéaires, orthogonaux, ni l'un ni l'autre ?
+(orthogonaux)
+Bleue
+Quel est l'angle entre 0 et pi dont le cosinus vaut - racine(3)/2 ?
+(5pi/6)
+Bleue
+Quel est le sens de l'acronyme SOHCAHTOA ?
+(sin=opp/hyp;cos=adj/hyp;tan=opp/adj)
+Bleue
+Quelle est la position relative des plans d'équations respectives 3x-2y+z=2 et -6x+4y-2z=4 ?
+(Parallèles)
+Bleue
+Les vecteurs u(1;0;-1) v(2;3;4) et w(4;3;2) sont-ils coplanaires ?
+(Oui)
+Bleue
+Comment s'appelle la droite dans un triangle issue d'un sommet et orthogonale au coté opposé ?
+(Hauteur)
+Bleue
+Quelles sont les propriétés des diagonales d'un carré ?
+(perpendiculaires, de même longueur et se coupant en leur milieu)
+Bleue
+Quelle est la longueur de la diagonale d'un carré de coté 536 ?
+(536racine(2))
+Bleue
+Dans un carré ABCD de coté 3, combien vaut le produit scalaire AB.AC ?
+(9)
+Bleue
+Dans un losange ABCD de coté 3, combien vaut le produit scalaire AC.BD ?
+(0)
+Marron
+Quelles sont les variations de la fonction 1-ln(x) sur l'intervalle [1;5] ? 
+(Décroissante)
+Marron
+Quelle est la limite de la suite u_n = (-1)^n *n/ (n^2+1) ?
+(0)
+Marron
+En quelle valeur de x, la fonction f(x)=3x^2-9x+7 admet-elle un minimum ? 
+(3/2)
+Marron
+Quelle est la dérivée de la fonction f(x)=ln(x)/x ?
+((1-ln(x)/x²)
+Marron
+Donner une primitive de la fonction f(x) = 5/(2x+1) pour x réel positif ? 
+(5/2 ln(2x+1))
+Marron
+Quelle est la valeur de l'intégrale int(x²,x,1,2) ? 
+(7/3)
+Marron
+Quelles sont les solutions de l'équation différentielle y'=3y+1 ?
+(y=-1/3 +Cexp(3x))
+Marron
+Quelle est la limite de la suite u_n = (2x^2-3x+4ln(x)/(x^2+1) ? 
+(2)
+Marron
+La fonction sin(1/2 x + pi/3) s'annule-t-elle dans l'intervalle [-pi/3;5pi/6] ? 
+(Non)
+Marron
+Soit x un réel strictement positif, déterminer l'ensemble des solutions de l'équation x^2-2ln(x)=0 ? 
+(Vide)
+Marron
+Soit la suite définie par : son premier est nul, le terme suivant est la moitié du précédent plus un. La suite est-elle majorée par 2 ? 
+(Oui)
+Marron
+Quelle est la dérivée de la fonction x ? x^2e^2x ?
+(2(x^2+x)e^2x)
+Marron
+Soit x \in ]-\pi/2;\pi\2[, donner une primitive de la fonction x ? sin(x)/cos(x) ? 
+(-ln|cos(x)|)
+Marron
+Si la suite u_n est une suite convergente vers un réel \ell \neq 1, la suite v_n=(u_n+1)/(u_n-1) converge vers ? 
+(l+1)/(l-1)
+Marron
+Combien de solution l'équation 2\sin(3x-\pi/3) - \sqrt(2)=0 admet elle de solution dans ]-pi ; 3pi[ ? 
+(12)
+Jaune
+Quel est le reste de la division Euclidienne de 465 par 4 ?
+(1)
+Jaune
+Quel est le premier multiple de 7 plus grand que 1000 ? 
+(1001)
+Jaune
+Quel est le plus petit multiple commun entre 21 et 35 ? 
+(105)
+Jaune
+4/3-3/4 = ?
+(7/12)
+Jaune
+On fabrique un nombre a 9 chiffres avec chacun des chiffres 1,2,3,4,5,6,7,8,9. Ce nombre est-il divisible par 9 ? 
+(Oui)
+Jaune
+Soit n un entier naturel plus grand que 2, combien vaut la fraction (n+1)/n - n(n+1) ? 
+((2n+1)/n(n+1))
+Jaune
+Combien le nombre 60 a-t-il de diviseurs positifs ? 
+(12)
+Jaune
+Le nombre 109 est-il premier ?
+(Oui)
+Jaune
+Combien y-t-il de nombre premiers entre 111 et 119 ? 
+(un seul 113 ) 
+Jaune
+Le nombre 264 est -il divisible par 42 ? 
+(Non, il n'est pas divisible par 7)
+Jaune
+On souhaite déplacer une tour de Hanoï de 4 disques concentriques du pilier A au pilier C, chaque disque ne pouvant se trouver sur un disque plus petit. Combien de mouvement au minimum son nécessaires ?
+(15)
+Jaune
+Un escalier comporte entre 45 et 55 marches. Si on les monte quatre à quatre, il en reste deux, si on les monte trois à trois, il n'en reste pas. Combien de marches possède cet escalier ? 
+(54)
+Jaune
+Quel est le plus grand diviseur commun de 48 et 64 ?
+(16)
+Jaune
+Deux nombres sont amicaux si chacun vaut la somme diviseurs stricts de l'autre. Quel est le nombre amical de 284 ? 
+(220)
+Jaune
+Donner deux nombres entiers positifs dont la différence des carrés vaut 40 et la somme des carrés vaut 58 ? 
+(3 et 7)
+Verte
+Quelle est la probabilité d'obtenir 7 en faisant la somme de dés à 6 faces équilibrés ? 
+(1/6)
+Verte
+A partir de combien de lancer d'une pièce équilibrée, la probabilité d'obtenir que des « piles » est elle inférieure à 0,1 % ? 
+(10)
+Verte
+Combien 5 personnes, ont-elles de façon de s'assoir dans une salle d'attente de 6 places ?
+(6 ! = 6x5x4x3x2 = 720)
+Verte
+On lance trois dés cubiques équilibrés, quelle est la probabilité de n'obtenir aucun 6 ? 
+(125/216)
+Verte
+Math-Yeux a trois notes en math. Un 15 en intéro de cours coef. 1, un 6 en TP coef. 2 et un 9 en DS coef. 3. Quelle est sa moyenne ? 
+(9)
+Verte
+On lance un dé de 6 bien équilibré mille fois et on additionne toutes les valeurs, quelle espérance de valeur obtient-on ?
+(3500)
+Verte
+On part d'un triangle équilatéral, à chaque étape on découpe chaque triangle en 4 triangles équilatéraux, combien de triangles obtient-on après la cinquième étape ? 
+(1024)
+Verte
+Dans une classe de 30 élèves, 5 sont gauchers et 21 sont des garçons. Il y a 2 garçons gauchers. Combien y-t-il de filles droitières ?
+(6)
+Verte
+Le code d'un immeuble est composé de deux lettres parmi A,B,C,D puis de trois chiffres. Combien y -t'il de combinaisons ? 
+(16000)
+Verte
+Dans une grille de Sudoku, Archibald a déjà rempli 70 cases, il remplit le reste au hasard. Quelle est la probabilité que sa grille soit correcte ? 
+(1/9^11=1 / 31 381 059 609)
+Verte
+Dans un établissement scolaire proposant 6 spécialités en première dont M-PC-SVT, quelle est la probabilité qu'un élève de seconde choisissant ses spécialités au hasard prenne cette triplette ? 
+(1/20)
+Verte
+Dans une classe de trente élèves, on souhaite élire deux délégués, combien existe-t-il de couples possibles ? 
+(15 x 29 =435)
+Verte
+On lance 3 fois un dé à 4 faces (Tétraèdre régulier), quelle est la probabilité d'obtenir au moins deux fois la face 1 ? 
+(2parmi3)(1/4)^2*3/4+(1/4)³ = 10/64)
+Verte
+Une cible est constituée de trois cercles concentriques de rayons respectifs r 2r et 3r. Une fléchette atteint aléatoirement n'importe quel espace de la cible. Quelle est la probabilité d'atteindre la couronne centrale ? 
+((pi(2r)² -pi r² )/pi (3r)² = 1/3)
+Verte
+Dans une urne contenant 3 boules rouges et 6 boules noires, on tire avec remise 15 boules. Quelle est l'espérance de la V.A. qui compte le nombre de boules rouges obtenues ? 
+(5)
+Orange
+Quelle est le nom de l'algorithme matérialisant la proximité de la suite avec sa limite ? 
+(Algo de seuil)
+Orange
+Qui est l'inventeur du langage informatique Python ? 
+(Guido Van Rossum)
+Orange
+Donner deux noms d'algorithmes permettant de trouver les solutions d'une équation de la forme « f(x)=k » 
+(Sécante, balayage, dichotomie, Newton)
+Orange
+Quelle algorithme permet de déterminer l'aire sous une courbe en utilisant les probabilités ? 
+(Monte-Carlo)
+Orange
+Comment écrit-on la boucle pour i variant de 1 à n en python ?
+(for i in range (1,n+1):)
+Orange
+Que renvoie la commande python : « 2+5!=7 ». 
+(False)
+Orange
+Que renvoie la commande python : « i<5 or i>10 » lorsque i = 7 ?
+(False)
+Orange
+Combien de fois la boucle suivante s'exécute-t'elle : i=3 , while i < 13 : i = i+2 ?
+(5)
+Orange
+Quelle syntaxe est obligatoire après la commande « else » ?
+(:)
+Orange
+Quelle est la valeur de x renvoyé par le script suivant : x = 1, for i in range(12) : x+=3 ?
+(37)
+Orange
+i=0, while (1/2)^i > 0,01 : i+=1, quel valeur de i se trouve en sortie de cette boucle ?
+(7)
+Orange
+i=0, while 3^i > 100 : i+=1, quel valeur de i se trouve en sortie de cette boucle ?
+(0)
+Orange
+Combien d'étapes sont nécessaires à l'algorithme de dichotomie partant d'un intervalle de longueur 1 pour trouver une solution à 10^-3 près ?
+(10)
+Orange
+Que doit-on écrire en début de script pour utiliser la fonction racine carrée ?
+(from math import sqrt, ou *)
+Orange
+d = randint(1,6)+randint(1,6), que réalise cette instruction ?
+(simulation de la somme de deux dés à 6 faces)
+Marron
+Quelle est la définition de la fonction exponentielle ?
+(exp'(x)=exp(x) et exp(0)=1)
+Rose
+Comment est mort le mathématicien Evariste Galois ?
+(En duel)
+Bleue
+En géométrie analytique, quelle est la condition pour que le calcul des normes et des distances soit valable ?
+(Repère orthonormé)
+Bleue
+Quelle est la formule de l'aire d'un trapèze ?
+((B+b)*h/2)
+Marron
+Comment savoir si une fonction est dérivable en un point a ?
+(Lim du taux d'accroissement de f en a finie)
+Marron
+Quelle est l'équation d'une tangente à la courbe d'une fonction f en un point a ?
+(y'=f'(a)(x-a)+f(a))
+Marron
+Sur quel intervalle la fonction logarithme est-elle croissante ?
+(]0;+inf[)
+Verte
+Donner la formule des probabilités conditionelles.
+(pB(A)=p(A inter B)/p(B))
+Verte
+Qu'est-ce qu'une épreuve de Bernouilli ?
+(Une exp aléatoire ayant deux issues)
+Orange
+Quel symbole permet en python d'obtenir le reste d'un division euclidienne ?
+(%)
+Marron
+Interpréter graphiquement l'intégrale de a à b d'une fonction f positive ?
+(L'aire sous la courbe entre x=a et x=b)
+Rose
+Qu'est-ce qu'un nombre irrationnel ?
+(On ne peut l'ecrire sous forme de fractions d'entiers)
+Bleue
+Soient A(1;-2;3) et B(5;7;-1), donner les coordonnées du vecteur AB ?
+(AB(4;9;-4))
+Verte
+Définir deux vecteurs colinéaires ?
+(il existe un reel k tel que u=kv)
+Jaune
+Compléter la suite : 2, 3, 5, 7, 11, 13, 17 ?
+(19)
+Marron
+Donner la valeur de la limite de (exp(x)-1)/x qd x --> 0 ?
+(1)
+Marron
+Donner l'exemple d'une fonction continue, mais non dérivable en un point ?
+(Racine(x) ou |x| en 0, ...)
+Marron
+Quelle est la forme explicite d'une suite de premier u_p et de raison q ?
+(u_n=u_p *q^(n-p))
+Marron
+Quelles sont les solutions de l'équation : 2x^2+x-1=0 ?
+(-1 et 1/2)
+Marron
+Quelle est la dérivée d'une fonction de la forme 1/u^n?
+(-1/(n-1)u^(n-1))
+Verte
+Dans une loi binomiale de paramètre n et p, que représentent ces deux valeurs ?
+(n : nbre de répétitions, p proba de succès)
+Verte
+Quelle est la formule de l'écart type d'une loi binomiale de paramètre n et p ?
+(racine(np(1-p)))
+Orange
+Quelle commande python permet l'affichage dans la console ?
+(print)
+Marron
+Qu'est-ce que le taux d'accroissement d'une fonction f en un point a ?
+((f(x)-f(a))/(x-a))
+Marron
+Donner une primitive de la fonction exp(3x+1) ?
+(exp(3x+1)/3)
+Jaune
+Quel est le PGCD des deux nombres 144 et 12 ?
+(12)
+Verte
+Soit n un entier naturel, définir n! (factoriel) ?
+(0!=1, n!=1 x 2 x ... x n)
+Orange
+Quel symbolique pour définir une puissance dans le langage python ?
+(**)
+Orange
+Citer deux méthodes algorithmiques pour calculer une valeur approchée d'une intégrale ?
+(Rectangles, trapèzes, monte-carlo, ...)
+Rose
+Quelle est l'origine du mot "Algèbre" ?
+(C'est un mot arabe : Al-jabr, réduction, reconstruction, réunion,...)
+Verte
+Donner la formule du volume d'une pyramide à base carrée ?
+(c^2*h/3)
+Jaune
+Quelle est la valeur décimale de 3/6 + 6/3 ?
+(2,5)
+Jaune
+Il y a 6 ans, Edouard avait deux fois l'age de Lise, dans 5 ans ils auront 40 ans à eux deux. Quel est l'age de Lise ?
+(12 ans)
+Jaune
+Donner les multiples de 4 compris entre 150 et 162 ?
+(152, 156, 160)
+Jaune
+Quel est le produit du quadrule de 40 par le quart de 80 ?
+(3200)
+Verte
+Quel est le périmètre d'un cercle ?
+(2piR)
+Verte
+Dans un triangle, quelle droite relie le sommet au milieu du coté opposé ?
+(Médiane)
+Verte
+Convertir 75° en radian ?
+(5pi/12)
+Verte
+Quelle est la probabilité d'obtenir 3 en lançant deux dés dont on fait la somme ?
+(1/18)
+Marron
+Quelle est la limite de 1/racine(x) qd x--> +inf ?
+(0)
+Rose
+Quele est le point commun des fonctions de Weierstrass et de Bolzano ?
+(Continue partout, dérivable nulle part)
+Verte
+Sachant que ma famille est composée de 80% de filles, quelle est la probabilité que j'ai un garçon ?
+(1/2)
+Orange
+Quelle lettre vient après B, E, I, N ?
+(T)
+Rose
+Qui est le premier amthématicien a avoir calculé la circonférence de la terre ?
+(Eratostène)
+Rose
+Quel mathématicien est l'auteur de l'algorithme le plus rapide pour déterminer les décimales de pi ?
+(Srinivasa Ramanujan)
+Verte
+Les vecteurs u(1;7;3) et v(-4;1;-2) sont-ils orthogonaux ?
+(non)
+Verte
+Combien un angle de pi/5 radian mesure-t-il en degrés ?
+(36)
+Verte
+Donner la valeur du produit scalaire AB.AC sachant que AB=7, AC = racine(2) et l'angle BAC = pi/4 ?
+(7)
+Verte
+Citez trois propriétés d'un parallèlogramme ?
+(Diagonales sécantes au milieu, cotés opposés parallèles ou égaux, angles opposés égaux, ...)
+Marron
+Combien la fonction x --> x^3 - 3 admet-elle de points d'inflexion ?
+(1)
+Marron
+La suite (-1)^n/n est-elle convergente ?
+(Oui)
+Marron
+Donner la dérivée seconde de la fonction x --> ln(2x) ?
+(x --> -1/x^2)
+Marron
+Combien vaut la limite de racine(x)/ln(x) qd x --> +inf ?
+(+inf)
+Jaune
+Donner le 9ème nombre premier ?
+(29)
+Jaune
+Si on prend un nombre n que l'on multiplie par 54, quel est son reste dans une division euclidienne par 18 ?
+(0)
+Orange
+Convertissez le nombre binaire 100101 en base 10 ?
+(37)
+Jaune
+Donner la liste des diviseurs de 24 ?
+(1,2,3,4,6,8,12,24)
+Jaune
+Quel est le reste de la division euclidienne de 112 par 13 ?
+(8)
+Verte
+Quel est le lancer le plus probable dans la somme de deux dés à 6 faces ?
+(7)
+Verte
+On lance dont dés à six faces, quelle est la probabilité d'obtenir un double ?
+(1/6)
+Verte
+Donner la probabilité qu'un point choisi au hasrad dans le carré d'unité d'aire soit situé sous la courbe d'équation y=(x+1)/2 ?
+(3/4)
+Rose
+Comment la courbe représentative des probabilités d'une variable aléatoire représentant une loi binomiale ?
+(Courbe de Gauss)
+Orange
+Comment traduit-on les différents types de valeurs entières, nombres à virgules et chaine de caractère en python ?
+(int, float, str)
+Orange
+Quelle différence peut-on faire entre une boucle while et une boucle for ?
+(Non bornée, bornée)
+Orange
+Quel commande python permet d'obtenir de l'utilisateur un nombre entier ?
+(int(input()))
+Jaune
+Quel est le plus ensemble dans lequel se trouve le nombre 27/4, N, Z, D, Q R, C ?
+(D)
+Marron
+Compléter : Si f'' est négative alors la fonction est ...
+(Concave)
+Marron
+Quel est le coefficient directeur de la tangente à la courbe représentant la fonction x --> x^2, au point d'ascisse 2 ?
+(4)
+Marron
+Sin(18pi/4) = ?
+(1)
+Marron
+Donner avec une précision de deux décimales, la valeur approchée de e ?
+(2,72)
+Rose
+Citer une mathématicienne ?
+(Sophie Germain, Ada Lovelace, Hypatie d'Alexandrie, Mariam Mirzakhani, Eugenia Malinnikova, Karen Uhlenbeck, ...)
+Rose
+Comment s'appelle le prix internationale des mathématiques équivalent au nobel ?
+(Médaille Field)
+Rose
+Combien de Français ont obtenu la médaille Field ?
+(11)
+Marron
+Quelle est la limite de sin(x)/x qd x-->0 ?
+(1)
+Marron
+Sur quel intervalle la fonction x --> ln(x) est elle strictement négative ?
+(]0;1[)
+Marron
+Donner la primitive de la fonction x --> x^4, qui s'annule en 1 ?
+(x^5/5-1/5)
+Verte
+Définir ce qu'est un vecteur normal à un plan.
+(Vecteur ortogonal à tout les vecteurs du plan)
+Orange
+Quel est le nom des algorithmes utilisant le principe de récurrence ?
+(Récursif)
+Rose
+Quel mathématicien et criptanalyste britannique, est considéré comme le père de l'informatique ?
+(Alan Turing)
+Jaune
+Combien vaut 165x2/5 - 33 ?
+(33)
+Rose
+Selon Cantor, comment se nomme le cardinal de l'ensemble des entiers naturels ?
+(Aleph-zéro)
+Marron
+Compléter la propriété suivante pour a et b deux reels strictement positifs : ln(a/b) = ... ?
+(ln(a)-ln(b))
+Marron
+La suite u est définie par u_0 = 1, u_(n+1)=2u_n-1, calculer le millième terme de cette suite ?
+(1)
+Marron
+La suite u est une suite arithmétique de premier terme 3 et de raison 7, quel est son cinquième terme ?
+(31)
+Marron
+On dépose un grain de riz sur la première case d'un échiquier, on double à chaque nouvelle case, combien place-t-on de grain de riz sur un échiquier de 64 cases ?
+(2^64 - 1)
+Bleue
+Déterminer x pour que les vecteurs u(-3;4; 12) et v(4;-3;x) soient orthogonaux ?
+(2)
+Rose
+Par quelle méthode mathématique, la mesure du quart du méridien terrestre, qui a permis de définir le mètre, a-t-elle été éffectuée ?
+(Triangulation)
+Bleue
+Donner le nom d'un polygone a 12 cotés ?
+(Dodécagone)
+Jaune
+Quel est le sens de l'acronyme PPCM ?
+(Plus petit Commun Multiple)
