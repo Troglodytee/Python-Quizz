@@ -12,9 +12,9 @@ This is a program that can plays quizzes.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python os library
-- Python random library
+- Python `tkinter` library
+- Python `os` library
+- Python `random` library
 ## Usage
 You can load quizz file using the first input.
 Quizz files must have a `.txt` extension and contain sequences of 3 lines :
